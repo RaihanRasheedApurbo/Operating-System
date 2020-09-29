@@ -1,0 +1,155 @@
+sending 0
+sending 1
+sending 2
+0th biker is working with 0th service man
+sending 3
+sending 4
+sending 5
+sending 6
+0th biker is working with 1th service man
+1th biker is working with 0th service man
+sending 7
+sending 8
+sending 9
+waiting for the end to come
+0th biker is working with 2th service man
+1th biker is working with 1th service man
+2th biker is working with 0th service man
+0th biker is working with 3th service man
+1th biker is working with 2th service man
+2th biker is working with 1th service man
+3th biker is working with 0th service man
+0th biker is working with 4th service man
+0th biker's servicing is complted waiting for payment
+0th biker's is doing payment
+payment completed of bikar 0
+1
+hi
+going for lock 0
+1th biker is working with 3th service man
+2th biker is working with 2th service man
+3th biker is working with 1th service man
+aquired lock for 0
+going for lock 1
+1th biker is working with 4th service man
+2th biker is working with 3th service man
+3th biker is working with 2th service man
+aquired lock for 1
+going for lock 2
+1th biker's servicing is complted waiting for payment
+1th biker's is doing payment
+payment completed of bikar 1
+2th biker is working with 4th service man
+3th biker is working with 3th service man
+2th biker's servicing is complted waiting for payment
+2th biker's is doing payment
+payment completed of bikar 2
+aquired lock for 2
+going for lock 3
+3th biker is working with 4th service man
+aquired lock for 3
+going for lock 4
+3th biker's servicing is complted waiting for payment
+3th biker's is doing payment
+payment completed of bikar 3
+aquired lock for 4
+got all the locks
+2
+hi1
+3
+hi1
+4
+hi1
+biker number 0 departed
+biker number 3 departed
+biker number 2 departed
+biker number 1 departed
+7th biker is working with 0th service man
+7th biker is working with 1th service man
+5th biker is working with 0th service man
+7th biker is working with 2th service man
+5th biker is working with 1th service man
+8th biker is working with 0th service man
+7th biker is working with 3th service man
+5th biker is working with 2th service man
+8th biker is working with 1th service man
+9th biker is working with 0th service man
+7th biker is working with 4th service man
+7th biker's servicing is complted waiting for payment
+7th biker's is doing payment
+5th biker is working with 3th service man
+payment completed of bikar 7
+1
+hi
+going for lock 0
+8th biker is working with 2th service man
+9th biker is working with 1th service man
+aquired lock for 0
+going for lock 1
+5th biker is working with 4th service man
+8th biker is working with 3th service man
+9th biker is working with 2th service man
+aquired lock for 1
+going for lock 2
+5th biker's servicing is complted waiting for payment
+5th biker's is doing payment
+payment completed of bikar 5
+8th biker is working with 4th service man
+9th biker is working with 3th service man
+aquired lock for 2
+going for lock 3
+8th biker's servicing is complted waiting for payment
+8th biker's is doing payment
+payment completed of bikar 8
+9th biker is working with 4th service man
+aquired lock for 3
+going for lock 4
+9th biker's servicing is complted waiting for payment
+9th biker's is doing payment
+payment completed of bikar 9
+aquired lock for 4
+got all the locks
+2
+hi1
+3
+hi1
+4
+hi1
+biker number 7 departed
+biker number 5 departed
+biker number 8 departed
+biker number 9 departed
+6th biker is working with 0th service man
+6th biker is working with 1th service man
+4th biker is working with 0th service man
+6th biker is working with 2th service man
+4th biker is working with 1th service man
+6th biker is working with 3th service man
+4th biker is working with 2th service man
+6th biker is working with 4th service man
+4th biker is working with 3th service man
+4th biker is working with 4th service man
+6th biker's servicing is complted waiting for payment
+6th biker's is doing payment
+payment completed of bikar 6
+1
+hi
+going for lock 0
+aquired lock for 0
+going for lock 1
+aquired lock for 1
+going for lock 2
+aquired lock for 2
+going for lock 3
+aquired lock for 3
+going for lock 4
+4th biker's servicing is complted waiting for payment
+4th biker's is doing payment
+payment completed of bikar 4
+aquired lock for 4
+got all the locks
+2
+hi1
+biker number 6 departed
+biker number 4 departed
+exiting from main

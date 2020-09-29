@@ -29,7 +29,6 @@ int main()
     for(int i=0;i<numberOfServiceMen;i++)
     {
         res = pthread_mutex_init(serviceMen+i,NULL);
-        sleep(10);
         if(res!=0)
         {
             printf("Mutex for serviceMen, creation failed!");
@@ -70,11 +69,19 @@ void *bikerFunction(void *arg)
     //pthread_mutex_lock(enter);
     
     pthread_mutex_lock(serviceMen+0);
-    if(wpn>0)
+    
+    while(wpn>0)
     {
+        
+        pthread_mutex_unlock(serviceMen+0);
+        //printf("yeilding %d\n",currentBikerNumber);
         pthread_yield();
         pthread_mutex_lock(serviceMen+0);
     }
+
+    
+    
+    
     for(int i=0;i<numberOfServiceMen;i++)
     {
         
@@ -110,11 +117,13 @@ void *bikerFunction(void *arg)
     {
         //pthread_mutex_lock(enter);
         printf("hi\n");
-        for(int i=0;i<numberOfServiceMen-1;i++)
+        for(int i=0;i<numberOfServiceMen;i++)
         {
+            printf("going for lock %d\n",i);
             pthread_mutex_lock(serviceMen+i);
+            printf("aquired lock for %d\n",i);
         }
-
+        printf("got all the locks\n");
         pthread_mutex_unlock(wpnMutex);
         for(int i=numberOfServiceMen-1;i>=0;i--)
         {
@@ -126,6 +135,7 @@ void *bikerFunction(void *arg)
     }
     else
     {
+        printf("hi1\n");
         pthread_mutex_unlock(wpnMutex);
         pthread_mutex_lock(serviceMen+numberOfServiceMen-1);
         for(int i=numberOfServiceMen-1;i>=0;i--)
