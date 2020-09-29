@@ -6,10 +6,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int numberOfBiker = 10;
-int numberOfServiceMen = 3;
-int numberOfCashier = 3;
+unsigned int numberOfBiker = 5;
+unsigned int numberOfServiceMen = 5;
+unsigned int numberOfCashier = 1;
 pthread_mutex_t *serviceMen = new pthread_mutex_t[numberOfServiceMen];
+sem_t *cashier = new sem_t;
 void *bikerFunction(void *arg);
 
 
@@ -18,6 +19,9 @@ int main()
 {
     srand (static_cast <unsigned> (time(0)));
     int res;
+    res = sem_init(cashier,0,numberOfCashier);
+    
+    
     pthread_t *bikers = new pthread_t[numberOfBiker];
     for(int i=0;i<numberOfServiceMen;i++)
     {
@@ -75,7 +79,12 @@ void *bikerFunction(void *arg)
         }
         pthread_mutex_unlock(serviceMen+i);
     }
-    printf("work completed of biker %d\n",currentBikerNumber);
+    sem_wait(cashier);
+    float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX); // generates 0.0 to 1.0 inclusive
+    r = r*4; // generate 0.0 to 4.0 inclusive
+    sleep(r);
+    printf("payment completed of bikar %d\n",currentBikerNumber);
+    sem_post(cashier);
     pthread_exit(0);
     
     

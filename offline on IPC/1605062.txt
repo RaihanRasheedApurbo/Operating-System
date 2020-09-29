@@ -4,49 +4,34 @@ sending 2
 0th biker is working with 0th service man
 sending 3
 sending 4
-sending 5
+waiting for the end to come
 0th biker is working with 1th service man
 1th biker is working with 0th service man
-sending 6
-sending 7
-sending 8
 0th biker is working with 2th service man
-sending 9
-waiting for the end to come
-work completed of biker 0
 1th biker is working with 1th service man
 2th biker is working with 0th service man
+0th biker is working with 3th service man
 1th biker is working with 2th service man
 2th biker is working with 1th service man
 3th biker is working with 0th service man
-work completed of biker 1
+0th biker is working with 4th service man
+1th biker is working with 3th service man
 2th biker is working with 2th service man
 3th biker is working with 1th service man
+1th biker is working with 4th service man
 4th biker is working with 0th service man
-work completed of biker 2
+2th biker is working with 3th service man
 3th biker is working with 2th service man
 4th biker is working with 1th service man
-5th biker is working with 0th service man
-work completed of biker 3
+2th biker is working with 4th service man
+payment completed of bikar 0
+payment completed of bikar 1
+3th biker is working with 3th service man
 4th biker is working with 2th service man
-5th biker is working with 1th service man
-6th biker is working with 0th service man
-work completed of biker 4
-5th biker is working with 2th service man
-6th biker is working with 1th service man
-7th biker is working with 0th service man
-work completed of biker 5
-6th biker is working with 2th service man
-7th biker is working with 1th service man
-8th biker is working with 0th service man
-work completed of biker 6
-7th biker is working with 2th service man
-8th biker is working with 1th service man
-9th biker is working with 0th service man
-work completed of biker 7
-8th biker is working with 2th service man
-9th biker is working with 1th service man
-work completed of biker 8
-9th biker is working with 2th service man
-work completed of biker 9
+3th biker is working with 4th service man
+4th biker is working with 3th service man
+4th biker is working with 4th service man
+payment completed of bikar 2
+payment completed of bikar 3
+payment completed of bikar 4
 exiting from main
