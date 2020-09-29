@@ -2,13 +2,14 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <pthread.h>
+#include<semaphore.h>
 #include <bits/stdc++.h>
 using namespace std;
 
 int numberOfBiker = 10;
-int numberOfServiceMan = 3;
+int numberOfServiceMen = 3;
 int numberOfCashier = 3;
-
+pthread_mutex_t *serviceMen = new pthread_mutex_t[numberOfServiceMen];
 void *bikerFunction(void *arg);
 
 
@@ -16,10 +17,16 @@ void *bikerFunction(void *arg);
 int main() 
 {
     srand (static_cast <unsigned> (time(0)));
-
     int res;
     pthread_t *bikers = new pthread_t[numberOfBiker];
-
+    for(int i=0;i<numberOfServiceMen;i++)
+    {
+        res = pthread_mutex_init(serviceMen+i,NULL);
+        if(res!=0)
+        {
+            printf("Mutex for serviceMen, creation failed!");
+        }
+    }
     for(int i=0;i<numberOfBiker;i++)
     {
         printf("sending %d\n",i);
@@ -50,11 +57,26 @@ int main()
 
 void *bikerFunction(void *arg)
 {
-    int *t = (int *)arg;
-    printf("inside biker function of %d\n",*t);
-    float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX);
-    printf("sleep time of thread %d is %f\n",*t,r*2);
-    sleep(r*2);
-    delete t;
-    pthread_exit(NULL);
+    int currentBikerNumber = *(int *)arg;
+    delete (int *)arg;
+    pthread_mutex_lock(serviceMen+0);
+    for(int i=0;i<numberOfServiceMen;i++)
+    {
+        
+        printf("%dth biker is working with %dth service man\n",currentBikerNumber,i);
+        float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX); // generates 0.0 to 1.0 inclusive
+        r = r*2; // generate 0.0 to 2.0 inclusive
+        sleep(r);
+        //printf("%dth biker has completed working with %dth service man. it took %f mili seconds\n",
+        //currentBikerNumber,i,r);
+        if(i+1<numberOfServiceMen)
+        {
+            pthread_mutex_lock(serviceMen+i+1);
+        }
+        pthread_mutex_unlock(serviceMen+i);
+    }
+    printf("work completed of biker %d\n",currentBikerNumber);
+    pthread_exit(0);
+    
+    
 }
