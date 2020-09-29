@@ -1,0 +1,32 @@
+sending 0
+sending 1
+inside biker function of 0
+sleep time of thread 0 is 1.408389
+sending 2
+inside biker function of 1
+sleep time of thread 1 is 0.059039
+sending 3
+inside biker function of 2
+sleep time of thread 2 is 1.090317
+sending 4
+inside biker function of 3
+sleep time of thread 3 is 1.247927
+sending 5
+inside biker function of 4
+sleep time of thread 4 is 1.905623
+sending 6
+inside biker function of 5
+sleep time of thread 5 is 1.339628
+sending 7
+inside biker function of 6
+sleep time of thread 6 is 0.076036
+sending 8
+inside biker function of 7
+sleep time of thread 7 is 0.625281
+sending 9
+inside biker function of 8
+sleep time of thread 8 is 1.438583
+waiting for the end to come
+inside biker function of 9
+sleep time of thread 9 is 0.077323
+exiting from main
