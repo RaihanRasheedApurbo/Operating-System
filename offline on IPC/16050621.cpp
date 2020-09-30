@@ -6,7 +6,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-unsigned int numberOfBiker = 10;
+unsigned int numberOfBiker = 100;
 unsigned int numberOfServiceMen = 5;
 unsigned int numberOfCashier = 2;
 int wpn = 0; // wpn -> waiting people number

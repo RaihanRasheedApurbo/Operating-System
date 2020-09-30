@@ -1,0 +1,26 @@
+<-------solution strategy---->
+
+Triple mutex
+Three mutexes would work here:
+
+data mutex ('M')
+next-to-access mutex ('N'), and
+low-priority access mutex ('L')
+Access patterns are:
+
+Low-priority threads: lock L, lock N, lock M, unlock N, { do stuff }, unlock M, unlock L
+High-priority thread: lock N, lock M, unlock N, { do stuff }, unlock M
+
+
+
+this solution is taken from the answer of this stackoverflow question. you should read this...
+https://stackoverflow.com/questions/11666610/how-to-give-priority-to-privileged-thread-in-mutex-locking
+
+
+1. where we handle departing , we get a senario like next to access thread so we need a next to access mutex
+2. where we handle entering the station we get a a senario like low priority thread but instead of using low priority mutex I had to used a semaphore that has the initial and maximum value equal to the size of number of servicemen
+3. the servicemen mutexes are our data mutex actually..... 
+
+if you can break your implementation in these 3 parts and use this strategy you have one solution.... i have completed following this....
+
+copy checker er m***e b**p

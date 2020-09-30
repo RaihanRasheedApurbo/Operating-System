@@ -1,0 +1,1300 @@
+1 started taking service from serviceman 1
+1 finished taking service from serviceman 1
+1 started taking service from serviceman 2
+1 finished taking service from serviceman 2
+1 started taking service from serviceman 3
+2 started taking service from serviceman 1
+2 finished taking service from serviceman 1
+1 finished taking service from serviceman 3
+1 started taking service from serviceman 4
+2 started taking service from serviceman 2
+3 started taking service from serviceman 1
+2 finished taking service from serviceman 2
+2 started taking service from serviceman 3
+3 finished taking service from serviceman 1
+3 started taking service from serviceman 2
+3 finished taking service from serviceman 2
+4 started taking service from serviceman 1
+4 finished taking service from serviceman 1
+1 finished taking service from serviceman 4
+1 started taking service from serviceman 5
+2 finished taking service from serviceman 3
+2 started taking service from serviceman 4
+3 started taking service from serviceman 3
+4 started taking service from serviceman 2
+5 started taking service from serviceman 1
+1 finished taking service from serviceman 5
+4 finished taking service from serviceman 2
+1 starte paying the service bill
+5 finished taking service from serviceman 1
+1 finished paying the service bill
+2 finished taking service from serviceman 4
+2 started taking service from serviceman 5
+3 finished taking service from serviceman 3
+3 started taking service from serviceman 4
+4 started taking service from serviceman 3
+5 started taking service from serviceman 2
+6 started taking service from serviceman 1
+6 finished taking service from serviceman 1
+5 finished taking service from serviceman 2
+3 finished taking service from serviceman 4
+2 finished taking service from serviceman 5
+4 finished taking service from serviceman 3
+3 started taking service from serviceman 5
+2 starte paying the service bill
+4 started taking service from serviceman 4
+5 started taking service from serviceman 3
+6 started taking service from serviceman 2
+3 finished taking service from serviceman 5
+2 finished paying the service bill
+3 starte paying the service bill
+4 finished taking service from serviceman 4
+4 started taking service from serviceman 5
+5 finished taking service from serviceman 3
+5 started taking service from serviceman 4
+4 finished taking service from serviceman 5
+4 starte paying the service bill
+4 finished paying the service bill
+6 finished taking service from serviceman 2
+6 started taking service from serviceman 3
+3 finished paying the service bill
+5 finished taking service from serviceman 4
+5 started taking service from serviceman 5
+6 finished taking service from serviceman 3
+6 started taking service from serviceman 4
+6 finished taking service from serviceman 4
+5 finished taking service from serviceman 5
+5 starte paying the service bill
+6 started taking service from serviceman 5
+6 finished taking service from serviceman 5
+6 starte paying the service bill
+5 finished paying the service bill
+6 finished paying the service bill
+1 has departed
+3 has departed
+4 has departed
+2 has departed
+5 has departed
+6 has departed
+7 started taking service from serviceman 1
+7 finished taking service from serviceman 1
+7 started taking service from serviceman 2
+8 started taking service from serviceman 1
+7 finished taking service from serviceman 2
+8 finished taking service from serviceman 1
+7 started taking service from serviceman 3
+8 started taking service from serviceman 2
+9 started taking service from serviceman 1
+9 finished taking service from serviceman 1
+7 finished taking service from serviceman 3
+8 finished taking service from serviceman 2
+7 started taking service from serviceman 4
+8 started taking service from serviceman 3
+9 started taking service from serviceman 2
+10 started taking service from serviceman 1
+7 finished taking service from serviceman 4
+7 started taking service from serviceman 5
+9 finished taking service from serviceman 2
+10 finished taking service from serviceman 1
+7 finished taking service from serviceman 5
+7 starte paying the service bill
+7 finished paying the service bill
+8 finished taking service from serviceman 3
+8 started taking service from serviceman 4
+9 started taking service from serviceman 3
+10 started taking service from serviceman 2
+10 finished taking service from serviceman 2
+11 started taking service from serviceman 1
+11 finished taking service from serviceman 1
+9 finished taking service from serviceman 3
+8 finished taking service from serviceman 4
+8 started taking service from serviceman 5
+9 started taking service from serviceman 4
+8 finished taking service from serviceman 5
+8 starte paying the service bill
+10 started taking service from serviceman 3
+9 finished taking service from serviceman 4
+9 started taking service from serviceman 5
+11 started taking service from serviceman 2
+12 started taking service from serviceman 1
+9 finished taking service from serviceman 5
+9 starte paying the service bill
+12 finished taking service from serviceman 1
+9 finished paying the service bill
+8 finished paying the service bill
+10 finished taking service from serviceman 3
+10 started taking service from serviceman 4
+11 finished taking service from serviceman 2
+11 started taking service from serviceman 3
+12 started taking service from serviceman 2
+12 finished taking service from serviceman 2
+10 finished taking service from serviceman 4
+11 finished taking service from serviceman 3
+10 started taking service from serviceman 5
+11 started taking service from serviceman 4
+12 started taking service from serviceman 3
+12 finished taking service from serviceman 3
+10 finished taking service from serviceman 5
+10 starte paying the service bill
+11 finished taking service from serviceman 4
+11 started taking service from serviceman 5
+12 started taking service from serviceman 4
+10 finished paying the service bill
+12 finished taking service from serviceman 4
+11 finished taking service from serviceman 5
+11 starte paying the service bill
+12 started taking service from serviceman 5
+12 finished taking service from serviceman 5
+11 finished paying the service bill
+12 starte paying the service bill
+12 finished paying the service bill
+7 has departed
+12 has departed
+8 has departed
+10 has departed
+11 has departed
+9 has departed
+13 started taking service from serviceman 1
+13 finished taking service from serviceman 1
+13 started taking service from serviceman 2
+14 started taking service from serviceman 1
+13 finished taking service from serviceman 2
+13 started taking service from serviceman 3
+13 finished taking service from serviceman 3
+13 started taking service from serviceman 4
+14 finished taking service from serviceman 1
+13 finished taking service from serviceman 4
+13 started taking service from serviceman 5
+14 started taking service from serviceman 2
+15 started taking service from serviceman 1
+13 finished taking service from serviceman 5
+14 finished taking service from serviceman 2
+14 started taking service from serviceman 3
+13 starte paying the service bill
+14 finished taking service from serviceman 3
+13 finished paying the service bill
+14 started taking service from serviceman 4
+15 finished taking service from serviceman 1
+15 started taking service from serviceman 2
+16 started taking service from serviceman 1
+14 finished taking service from serviceman 4
+14 started taking service from serviceman 5
+15 finished taking service from serviceman 2
+15 started taking service from serviceman 3
+14 finished taking service from serviceman 5
+14 starte paying the service bill
+14 finished paying the service bill
+15 finished taking service from serviceman 3
+16 finished taking service from serviceman 1
+15 started taking service from serviceman 4
+16 started taking service from serviceman 2
+17 started taking service from serviceman 1
+15 finished taking service from serviceman 4
+15 started taking service from serviceman 5
+16 finished taking service from serviceman 2
+16 started taking service from serviceman 3
+17 finished taking service from serviceman 1
+17 started taking service from serviceman 2
+18 started taking service from serviceman 1
+18 finished taking service from serviceman 1
+15 finished taking service from serviceman 5
+16 finished taking service from serviceman 3
+16 started taking service from serviceman 4
+15 starte paying the service bill
+17 finished taking service from serviceman 2
+17 started taking service from serviceman 3
+18 started taking service from serviceman 2
+18 finished taking service from serviceman 2
+15 finished paying the service bill
+17 finished taking service from serviceman 3
+16 finished taking service from serviceman 4
+16 started taking service from serviceman 5
+17 started taking service from serviceman 4
+18 started taking service from serviceman 3
+16 finished taking service from serviceman 5
+16 starte paying the service bill
+17 finished taking service from serviceman 4
+17 started taking service from serviceman 5
+16 finished paying the service bill
+17 finished taking service from serviceman 5
+17 starte paying the service bill
+17 finished paying the service bill
+18 finished taking service from serviceman 3
+18 started taking service from serviceman 4
+18 finished taking service from serviceman 4
+18 started taking service from serviceman 5
+18 finished taking service from serviceman 5
+18 starte paying the service bill
+18 finished paying the service bill
+13 has departed
+14 has departed
+15 has departed
+16 has departed
+17 has departed
+18 has departed
+19 started taking service from serviceman 1
+19 finished taking service from serviceman 1
+19 started taking service from serviceman 2
+20 started taking service from serviceman 1
+20 finished taking service from serviceman 1
+19 finished taking service from serviceman 2
+19 started taking service from serviceman 3
+20 started taking service from serviceman 2
+21 started taking service from serviceman 1
+20 finished taking service from serviceman 2
+21 finished taking service from serviceman 1
+19 finished taking service from serviceman 3
+19 started taking service from serviceman 4
+20 started taking service from serviceman 3
+21 started taking service from serviceman 2
+22 started taking service from serviceman 1
+21 finished taking service from serviceman 2
+19 finished taking service from serviceman 4
+19 started taking service from serviceman 5
+20 finished taking service from serviceman 3
+20 started taking service from serviceman 4
+20 finished taking service from serviceman 4
+22 finished taking service from serviceman 1
+19 finished taking service from serviceman 5
+19 starte paying the service bill
+20 started taking service from serviceman 5
+21 started taking service from serviceman 3
+22 started taking service from serviceman 2
+23 started taking service from serviceman 1
+19 finished paying the service bill
+20 finished taking service from serviceman 5
+20 starte paying the service bill
+21 finished taking service from serviceman 3
+21 started taking service from serviceman 4
+20 finished paying the service bill
+21 finished taking service from serviceman 4
+21 started taking service from serviceman 5
+22 finished taking service from serviceman 2
+21 finished taking service from serviceman 5
+21 starte paying the service bill
+22 started taking service from serviceman 3
+23 finished taking service from serviceman 1
+23 started taking service from serviceman 2
+24 started taking service from serviceman 1
+22 finished taking service from serviceman 3
+22 started taking service from serviceman 4
+21 finished paying the service bill
+23 finished taking service from serviceman 2
+23 started taking service from serviceman 3
+22 finished taking service from serviceman 4
+22 started taking service from serviceman 5
+22 finished taking service from serviceman 5
+22 starte paying the service bill
+24 finished taking service from serviceman 1
+23 finished taking service from serviceman 3
+23 started taking service from serviceman 4
+24 started taking service from serviceman 2
+22 finished paying the service bill
+24 finished taking service from serviceman 2
+24 started taking service from serviceman 3
+24 finished taking service from serviceman 3
+23 finished taking service from serviceman 4
+23 started taking service from serviceman 5
+23 finished taking service from serviceman 5
+24 started taking service from serviceman 4
+23 starte paying the service bill
+23 finished paying the service bill
+24 finished taking service from serviceman 4
+24 started taking service from serviceman 5
+24 finished taking service from serviceman 5
+24 starte paying the service bill
+24 finished paying the service bill
+19 has departed
+20 has departed
+24 has departed
+22 has departed
+23 has departed
+21 has departed
+25 started taking service from serviceman 1
+25 finished taking service from serviceman 1
+25 started taking service from serviceman 2
+26 started taking service from serviceman 1
+26 finished taking service from serviceman 1
+25 finished taking service from serviceman 2
+25 started taking service from serviceman 3
+26 started taking service from serviceman 2
+27 started taking service from serviceman 1
+25 finished taking service from serviceman 3
+25 started taking service from serviceman 4
+26 finished taking service from serviceman 2
+26 started taking service from serviceman 3
+27 finished taking service from serviceman 1
+27 started taking service from serviceman 2
+27 finished taking service from serviceman 2
+28 started taking service from serviceman 1
+25 finished taking service from serviceman 4
+25 started taking service from serviceman 5
+26 finished taking service from serviceman 3
+26 started taking service from serviceman 4
+27 started taking service from serviceman 3
+26 finished taking service from serviceman 4
+28 finished taking service from serviceman 1
+28 started taking service from serviceman 2
+29 started taking service from serviceman 1
+27 finished taking service from serviceman 3
+29 finished taking service from serviceman 1
+25 finished taking service from serviceman 5
+28 finished taking service from serviceman 2
+25 starte paying the service bill
+26 started taking service from serviceman 5
+27 started taking service from serviceman 4
+28 started taking service from serviceman 3
+29 started taking service from serviceman 2
+30 started taking service from serviceman 1
+27 finished taking service from serviceman 4
+28 finished taking service from serviceman 3
+30 finished taking service from serviceman 1
+25 finished paying the service bill
+26 finished taking service from serviceman 5
+29 finished taking service from serviceman 2
+26 starte paying the service bill
+27 started taking service from serviceman 5
+28 started taking service from serviceman 4
+29 started taking service from serviceman 3
+30 started taking service from serviceman 2
+26 finished paying the service bill
+28 finished taking service from serviceman 4
+27 finished taking service from serviceman 5
+28 started taking service from serviceman 5
+27 starte paying the service bill
+29 finished taking service from serviceman 3
+29 started taking service from serviceman 4
+30 finished taking service from serviceman 2
+30 started taking service from serviceman 3
+27 finished paying the service bill
+29 finished taking service from serviceman 4
+30 finished taking service from serviceman 3
+28 finished taking service from serviceman 5
+28 starte paying the service bill
+29 started taking service from serviceman 5
+28 finished paying the service bill
+30 started taking service from serviceman 4
+29 finished taking service from serviceman 5
+30 finished taking service from serviceman 4
+29 starte paying the service bill
+30 started taking service from serviceman 5
+30 finished taking service from serviceman 5
+30 starte paying the service bill
+30 finished paying the service bill
+29 finished paying the service bill
+25 has departed
+28 has departed
+26 has departed
+27 has departed
+30 has departed
+29 has departed
+31 started taking service from serviceman 1
+31 finished taking service from serviceman 1
+31 started taking service from serviceman 2
+32 started taking service from serviceman 1
+31 finished taking service from serviceman 2
+31 started taking service from serviceman 3
+32 finished taking service from serviceman 1
+32 started taking service from serviceman 2
+33 started taking service from serviceman 1
+32 finished taking service from serviceman 2
+31 finished taking service from serviceman 3
+31 started taking service from serviceman 4
+32 started taking service from serviceman 3
+33 finished taking service from serviceman 1
+32 finished taking service from serviceman 3
+31 finished taking service from serviceman 4
+33 started taking service from serviceman 2
+31 started taking service from serviceman 5
+34 started taking service from serviceman 1
+32 started taking service from serviceman 4
+34 finished taking service from serviceman 1
+33 finished taking service from serviceman 2
+32 finished taking service from serviceman 4
+33 started taking service from serviceman 3
+31 finished taking service from serviceman 5
+34 started taking service from serviceman 2
+35 started taking service from serviceman 1
+32 started taking service from serviceman 5
+31 starte paying the service bill
+32 finished taking service from serviceman 5
+32 starte paying the service bill
+32 finished paying the service bill
+31 finished paying the service bill
+34 finished taking service from serviceman 2
+33 finished taking service from serviceman 3
+35 finished taking service from serviceman 1
+33 started taking service from serviceman 4
+34 started taking service from serviceman 3
+35 started taking service from serviceman 2
+36 started taking service from serviceman 1
+33 finished taking service from serviceman 4
+33 started taking service from serviceman 5
+34 finished taking service from serviceman 3
+33 finished taking service from serviceman 5
+34 started taking service from serviceman 4
+35 finished taking service from serviceman 2
+35 started taking service from serviceman 3
+36 finished taking service from serviceman 1
+33 starte paying the service bill
+36 started taking service from serviceman 2
+37 started taking service from serviceman 1
+35 finished taking service from serviceman 3
+33 finished paying the service bill
+36 finished taking service from serviceman 2
+34 finished taking service from serviceman 4
+34 started taking service from serviceman 5
+37 finished taking service from serviceman 1
+35 started taking service from serviceman 4
+36 started taking service from serviceman 3
+36 finished taking service from serviceman 3
+37 started taking service from serviceman 2
+37 finished taking service from serviceman 2
+34 finished taking service from serviceman 5
+35 finished taking service from serviceman 4
+34 starte paying the service bill
+35 started taking service from serviceman 5
+36 started taking service from serviceman 4
+37 started taking service from serviceman 3
+35 finished taking service from serviceman 5
+35 starte paying the service bill
+36 finished taking service from serviceman 4
+36 started taking service from serviceman 5
+35 finished paying the service bill
+34 finished paying the service bill
+36 finished taking service from serviceman 5
+36 starte paying the service bill
+37 finished taking service from serviceman 3
+37 started taking service from serviceman 4
+36 finished paying the service bill
+37 finished taking service from serviceman 4
+37 started taking service from serviceman 5
+37 finished taking service from serviceman 5
+37 starte paying the service bill
+37 finished paying the service bill
+32 has departed
+37 has departed
+31 has departed
+33 has departed
+35 has departed
+34 has departed
+36 has departed
+38 started taking service from serviceman 1
+38 finished taking service from serviceman 1
+38 started taking service from serviceman 2
+38 finished taking service from serviceman 2
+38 started taking service from serviceman 3
+39 started taking service from serviceman 1
+39 finished taking service from serviceman 1
+39 started taking service from serviceman 2
+40 started taking service from serviceman 1
+39 finished taking service from serviceman 2
+38 finished taking service from serviceman 3
+38 started taking service from serviceman 4
+39 started taking service from serviceman 3
+40 finished taking service from serviceman 1
+40 started taking service from serviceman 2
+41 started taking service from serviceman 1
+38 finished taking service from serviceman 4
+38 started taking service from serviceman 5
+38 finished taking service from serviceman 5
+38 starte paying the service bill
+38 finished paying the service bill
+41 finished taking service from serviceman 1
+40 finished taking service from serviceman 2
+39 finished taking service from serviceman 3
+39 started taking service from serviceman 4
+40 started taking service from serviceman 3
+41 started taking service from serviceman 2
+42 started taking service from serviceman 1
+39 finished taking service from serviceman 4
+39 started taking service from serviceman 5
+41 finished taking service from serviceman 2
+42 finished taking service from serviceman 1
+40 finished taking service from serviceman 3
+39 finished taking service from serviceman 5
+40 started taking service from serviceman 4
+39 starte paying the service bill
+41 started taking service from serviceman 3
+42 started taking service from serviceman 2
+43 started taking service from serviceman 1
+40 finished taking service from serviceman 4
+40 started taking service from serviceman 5
+39 finished paying the service bill
+42 finished taking service from serviceman 2
+43 finished taking service from serviceman 1
+40 finished taking service from serviceman 5
+41 finished taking service from serviceman 3
+40 starte paying the service bill
+41 started taking service from serviceman 4
+42 started taking service from serviceman 3
+43 started taking service from serviceman 2
+42 finished taking service from serviceman 3
+40 finished paying the service bill
+41 finished taking service from serviceman 4
+41 started taking service from serviceman 5
+43 finished taking service from serviceman 2
+42 started taking service from serviceman 4
+43 started taking service from serviceman 3
+41 finished taking service from serviceman 5
+41 starte paying the service bill
+43 finished taking service from serviceman 3
+41 finished paying the service bill
+42 finished taking service from serviceman 4
+42 started taking service from serviceman 5
+43 started taking service from serviceman 4
+42 finished taking service from serviceman 5
+42 starte paying the service bill
+43 finished taking service from serviceman 4
+43 started taking service from serviceman 5
+42 finished paying the service bill
+43 finished taking service from serviceman 5
+43 starte paying the service bill
+43 finished paying the service bill
+38 has departed
+40 has departed
+43 has departed
+41 has departed
+42 has departed
+39 has departed
+44 started taking service from serviceman 1
+44 finished taking service from serviceman 1
+44 started taking service from serviceman 2
+45 started taking service from serviceman 1
+44 finished taking service from serviceman 2
+45 finished taking service from serviceman 1
+44 started taking service from serviceman 3
+45 started taking service from serviceman 2
+46 started taking service from serviceman 1
+46 finished taking service from serviceman 1
+44 finished taking service from serviceman 3
+45 finished taking service from serviceman 2
+44 started taking service from serviceman 4
+45 started taking service from serviceman 3
+46 started taking service from serviceman 2
+47 started taking service from serviceman 1
+46 finished taking service from serviceman 2
+44 finished taking service from serviceman 4
+45 finished taking service from serviceman 3
+45 started taking service from serviceman 4
+46 started taking service from serviceman 3
+47 finished taking service from serviceman 1
+47 started taking service from serviceman 2
+44 started taking service from serviceman 5
+48 started taking service from serviceman 1
+46 finished taking service from serviceman 3
+48 finished taking service from serviceman 1
+47 finished taking service from serviceman 2
+44 finished taking service from serviceman 5
+45 finished taking service from serviceman 4
+45 started taking service from serviceman 5
+44 starte paying the service bill
+46 started taking service from serviceman 4
+47 started taking service from serviceman 3
+44 finished paying the service bill
+48 started taking service from serviceman 2
+49 started taking service from serviceman 1
+46 finished taking service from serviceman 4
+49 finished taking service from serviceman 1
+45 finished taking service from serviceman 5
+47 finished taking service from serviceman 3
+45 starte paying the service bill
+48 finished taking service from serviceman 2
+46 started taking service from serviceman 5
+48 started taking service from serviceman 3
+49 started taking service from serviceman 2
+47 started taking service from serviceman 4
+45 finished paying the service bill
+46 finished taking service from serviceman 5
+47 finished taking service from serviceman 4
+49 finished taking service from serviceman 2
+47 started taking service from serviceman 5
+46 starte paying the service bill
+46 finished paying the service bill
+48 finished taking service from serviceman 3
+48 started taking service from serviceman 4
+49 started taking service from serviceman 3
+47 finished taking service from serviceman 5
+47 starte paying the service bill
+48 finished taking service from serviceman 4
+48 started taking service from serviceman 5
+47 finished paying the service bill
+49 finished taking service from serviceman 3
+49 started taking service from serviceman 4
+48 finished taking service from serviceman 5
+48 starte paying the service bill
+48 finished paying the service bill
+49 finished taking service from serviceman 4
+49 started taking service from serviceman 5
+49 finished taking service from serviceman 5
+49 starte paying the service bill
+49 finished paying the service bill
+44 has departed
+49 has departed
+45 has departed
+46 has departed
+47 has departed
+48 has departed
+50 started taking service from serviceman 1
+50 finished taking service from serviceman 1
+50 started taking service from serviceman 2
+51 started taking service from serviceman 1
+50 finished taking service from serviceman 2
+50 started taking service from serviceman 3
+51 finished taking service from serviceman 1
+51 started taking service from serviceman 2
+52 started taking service from serviceman 1
+50 finished taking service from serviceman 3
+50 started taking service from serviceman 4
+51 finished taking service from serviceman 2
+50 finished taking service from serviceman 4
+50 started taking service from serviceman 5
+51 started taking service from serviceman 3
+52 finished taking service from serviceman 1
+52 started taking service from serviceman 2
+53 started taking service from serviceman 1
+51 finished taking service from serviceman 3
+51 started taking service from serviceman 4
+53 finished taking service from serviceman 1
+52 finished taking service from serviceman 2
+52 started taking service from serviceman 3
+53 started taking service from serviceman 2
+54 started taking service from serviceman 1
+54 finished taking service from serviceman 1
+51 finished taking service from serviceman 4
+52 finished taking service from serviceman 3
+50 finished taking service from serviceman 5
+53 finished taking service from serviceman 2
+50 starte paying the service bill
+51 started taking service from serviceman 5
+52 started taking service from serviceman 4
+53 started taking service from serviceman 3
+54 started taking service from serviceman 2
+55 started taking service from serviceman 1
+50 finished paying the service bill
+51 finished taking service from serviceman 5
+54 finished taking service from serviceman 2
+51 starte paying the service bill
+52 finished taking service from serviceman 4
+52 started taking service from serviceman 5
+55 finished taking service from serviceman 1
+53 finished taking service from serviceman 3
+53 started taking service from serviceman 4
+54 started taking service from serviceman 3
+55 started taking service from serviceman 2
+53 finished taking service from serviceman 4
+55 finished taking service from serviceman 2
+54 finished taking service from serviceman 3
+52 finished taking service from serviceman 5
+51 finished paying the service bill
+52 starte paying the service bill
+53 started taking service from serviceman 5
+54 started taking service from serviceman 4
+55 started taking service from serviceman 3
+53 finished taking service from serviceman 5
+53 starte paying the service bill
+55 finished taking service from serviceman 3
+52 finished paying the service bill
+53 finished paying the service bill
+54 finished taking service from serviceman 4
+54 started taking service from serviceman 5
+55 started taking service from serviceman 4
+54 finished taking service from serviceman 5
+54 starte paying the service bill
+55 finished taking service from serviceman 4
+55 started taking service from serviceman 5
+55 finished taking service from serviceman 5
+55 starte paying the service bill
+54 finished paying the service bill
+55 finished paying the service bill
+50 has departed
+51 has departed
+52 has departed
+53 has departed
+54 has departed
+55 has departed
+56 started taking service from serviceman 1
+56 finished taking service from serviceman 1
+56 started taking service from serviceman 2
+57 started taking service from serviceman 1
+56 finished taking service from serviceman 2
+56 started taking service from serviceman 3
+57 finished taking service from serviceman 1
+57 started taking service from serviceman 2
+58 started taking service from serviceman 1
+56 finished taking service from serviceman 3
+56 started taking service from serviceman 4
+57 finished taking service from serviceman 2
+57 started taking service from serviceman 3
+58 finished taking service from serviceman 1
+58 started taking service from serviceman 2
+56 finished taking service from serviceman 4
+56 started taking service from serviceman 5
+59 started taking service from serviceman 1
+57 finished taking service from serviceman 3
+57 started taking service from serviceman 4
+58 finished taking service from serviceman 2
+58 started taking service from serviceman 3
+59 finished taking service from serviceman 1
+57 finished taking service from serviceman 4
+59 started taking service from serviceman 2
+60 started taking service from serviceman 1
+58 finished taking service from serviceman 3
+59 finished taking service from serviceman 2
+56 finished taking service from serviceman 5
+60 finished taking service from serviceman 1
+56 starte paying the service bill
+57 started taking service from serviceman 5
+58 started taking service from serviceman 4
+59 started taking service from serviceman 3
+60 started taking service from serviceman 2
+61 started taking service from serviceman 1
+58 finished taking service from serviceman 4
+59 finished taking service from serviceman 3
+61 finished taking service from serviceman 1
+57 finished taking service from serviceman 5
+60 finished taking service from serviceman 2
+57 starte paying the service bill
+58 started taking service from serviceman 5
+59 started taking service from serviceman 4
+56 finished paying the service bill
+60 started taking service from serviceman 3
+57 finished paying the service bill
+61 started taking service from serviceman 2
+59 finished taking service from serviceman 4
+58 finished taking service from serviceman 5
+62 started taking service from serviceman 1
+59 started taking service from serviceman 5
+58 starte paying the service bill
+59 finished taking service from serviceman 5
+59 starte paying the service bill
+59 finished paying the service bill
+61 finished taking service from serviceman 2
+60 finished taking service from serviceman 3
+58 finished paying the service bill
+60 started taking service from serviceman 4
+62 finished taking service from serviceman 1
+61 started taking service from serviceman 3
+62 started taking service from serviceman 2
+60 finished taking service from serviceman 4
+60 started taking service from serviceman 5
+61 finished taking service from serviceman 3
+62 finished taking service from serviceman 2
+61 started taking service from serviceman 4
+62 started taking service from serviceman 3
+60 finished taking service from serviceman 5
+60 starte paying the service bill
+61 finished taking service from serviceman 4
+61 started taking service from serviceman 5
+62 finished taking service from serviceman 3
+62 started taking service from serviceman 4
+60 finished paying the service bill
+62 finished taking service from serviceman 4
+61 finished taking service from serviceman 5
+61 starte paying the service bill
+62 started taking service from serviceman 5
+61 finished paying the service bill
+62 finished taking service from serviceman 5
+62 starte paying the service bill
+62 finished paying the service bill
+57 has departed
+62 has departed
+56 has departed
+59 has departed
+58 has departed
+60 has departed
+61 has departed
+63 started taking service from serviceman 1
+63 finished taking service from serviceman 1
+63 started taking service from serviceman 2
+64 started taking service from serviceman 1
+63 finished taking service from serviceman 2
+63 started taking service from serviceman 3
+64 finished taking service from serviceman 1
+64 started taking service from serviceman 2
+63 finished taking service from serviceman 3
+63 started taking service from serviceman 4
+64 finished taking service from serviceman 2
+64 started taking service from serviceman 3
+65 started taking service from serviceman 1
+63 finished taking service from serviceman 4
+63 started taking service from serviceman 5
+65 finished taking service from serviceman 1
+65 started taking service from serviceman 2
+66 started taking service from serviceman 1
+63 finished taking service from serviceman 5
+63 starte paying the service bill
+65 finished taking service from serviceman 2
+63 finished paying the service bill
+64 finished taking service from serviceman 3
+66 finished taking service from serviceman 1
+64 started taking service from serviceman 4
+65 started taking service from serviceman 3
+66 started taking service from serviceman 2
+65 finished taking service from serviceman 3
+66 finished taking service from serviceman 2
+67 started taking service from serviceman 1
+67 finished taking service from serviceman 1
+64 finished taking service from serviceman 4
+64 started taking service from serviceman 5
+65 started taking service from serviceman 4
+66 started taking service from serviceman 3
+67 started taking service from serviceman 2
+68 started taking service from serviceman 1
+68 finished taking service from serviceman 1
+65 finished taking service from serviceman 4
+64 finished taking service from serviceman 5
+67 finished taking service from serviceman 2
+66 finished taking service from serviceman 3
+64 starte paying the service bill
+65 started taking service from serviceman 5
+66 started taking service from serviceman 4
+67 started taking service from serviceman 3
+68 started taking service from serviceman 2
+64 finished paying the service bill
+67 finished taking service from serviceman 3
+66 finished taking service from serviceman 4
+65 finished taking service from serviceman 5
+68 finished taking service from serviceman 2
+65 starte paying the service bill
+66 started taking service from serviceman 5
+67 started taking service from serviceman 4
+68 started taking service from serviceman 3
+68 finished taking service from serviceman 3
+66 finished taking service from serviceman 5
+66 starte paying the service bill
+67 finished taking service from serviceman 4
+67 started taking service from serviceman 5
+65 finished paying the service bill
+68 started taking service from serviceman 4
+68 finished taking service from serviceman 4
+66 finished paying the service bill
+67 finished taking service from serviceman 5
+67 starte paying the service bill
+68 started taking service from serviceman 5
+67 finished paying the service bill
+68 finished taking service from serviceman 5
+68 starte paying the service bill
+68 finished paying the service bill
+63 has departed
+67 has departed
+68 has departed
+65 has departed
+66 has departed
+64 has departed
+69 started taking service from serviceman 1
+69 finished taking service from serviceman 1
+69 started taking service from serviceman 2
+70 started taking service from serviceman 1
+70 finished taking service from serviceman 1
+69 finished taking service from serviceman 2
+69 started taking service from serviceman 3
+70 started taking service from serviceman 2
+70 finished taking service from serviceman 2
+71 started taking service from serviceman 1
+71 finished taking service from serviceman 1
+69 finished taking service from serviceman 3
+69 started taking service from serviceman 4
+70 started taking service from serviceman 3
+70 finished taking service from serviceman 3
+71 started taking service from serviceman 2
+72 started taking service from serviceman 1
+71 finished taking service from serviceman 2
+72 finished taking service from serviceman 1
+69 finished taking service from serviceman 4
+69 started taking service from serviceman 5
+70 started taking service from serviceman 4
+71 started taking service from serviceman 3
+72 started taking service from serviceman 2
+73 started taking service from serviceman 1
+71 finished taking service from serviceman 3
+73 finished taking service from serviceman 1
+72 finished taking service from serviceman 2
+70 finished taking service from serviceman 4
+69 finished taking service from serviceman 5
+69 starte paying the service bill
+70 started taking service from serviceman 5
+69 finished paying the service bill
+71 started taking service from serviceman 4
+72 started taking service from serviceman 3
+73 started taking service from serviceman 2
+74 started taking service from serviceman 1
+71 finished taking service from serviceman 4
+73 finished taking service from serviceman 2
+72 finished taking service from serviceman 3
+74 finished taking service from serviceman 1
+70 finished taking service from serviceman 5
+70 starte paying the service bill
+71 started taking service from serviceman 5
+72 started taking service from serviceman 4
+71 finished taking service from serviceman 5
+71 starte paying the service bill
+73 started taking service from serviceman 3
+74 started taking service from serviceman 2
+73 finished taking service from serviceman 3
+70 finished paying the service bill
+72 finished taking service from serviceman 4
+72 started taking service from serviceman 5
+71 finished paying the service bill
+74 finished taking service from serviceman 2
+73 started taking service from serviceman 4
+74 started taking service from serviceman 3
+72 finished taking service from serviceman 5
+72 starte paying the service bill
+73 finished taking service from serviceman 4
+73 started taking service from serviceman 5
+74 finished taking service from serviceman 3
+74 started taking service from serviceman 4
+74 finished taking service from serviceman 4
+73 finished taking service from serviceman 5
+73 starte paying the service bill
+72 finished paying the service bill
+74 started taking service from serviceman 5
+73 finished paying the service bill
+74 finished taking service from serviceman 5
+74 starte paying the service bill
+74 finished paying the service bill
+69 has departed
+74 has departed
+70 has departed
+72 has departed
+71 has departed
+73 has departed
+75 started taking service from serviceman 1
+75 finished taking service from serviceman 1
+75 started taking service from serviceman 2
+76 started taking service from serviceman 1
+76 finished taking service from serviceman 1
+75 finished taking service from serviceman 2
+75 started taking service from serviceman 3
+76 started taking service from serviceman 2
+77 started taking service from serviceman 1
+76 finished taking service from serviceman 2
+75 finished taking service from serviceman 3
+75 started taking service from serviceman 4
+77 finished taking service from serviceman 1
+76 started taking service from serviceman 3
+77 started taking service from serviceman 2
+76 finished taking service from serviceman 3
+77 finished taking service from serviceman 2
+78 started taking service from serviceman 1
+78 finished taking service from serviceman 1
+75 finished taking service from serviceman 4
+75 started taking service from serviceman 5
+76 started taking service from serviceman 4
+77 started taking service from serviceman 3
+76 finished taking service from serviceman 4
+77 finished taking service from serviceman 3
+78 started taking service from serviceman 2
+87 started taking service from serviceman 1
+78 finished taking service from serviceman 2
+75 finished taking service from serviceman 5
+87 finished taking service from serviceman 1
+75 starte paying the service bill
+76 started taking service from serviceman 5
+77 started taking service from serviceman 4
+78 started taking service from serviceman 3
+87 started taking service from serviceman 2
+88 started taking service from serviceman 1
+76 finished taking service from serviceman 5
+76 starte paying the service bill
+77 finished taking service from serviceman 4
+77 started taking service from serviceman 5
+78 finished taking service from serviceman 3
+78 started taking service from serviceman 4
+76 finished paying the service bill
+78 finished taking service from serviceman 4
+87 finished taking service from serviceman 2
+88 finished taking service from serviceman 1
+77 finished taking service from serviceman 5
+88 started taking service from serviceman 2
+75 finished paying the service bill
+77 starte paying the service bill
+89 started taking service from serviceman 1
+87 started taking service from serviceman 3
+78 started taking service from serviceman 5
+89 finished taking service from serviceman 1
+88 finished taking service from serviceman 2
+77 finished paying the service bill
+87 finished taking service from serviceman 3
+87 started taking service from serviceman 4
+88 started taking service from serviceman 3
+89 started taking service from serviceman 2
+90 started taking service from serviceman 1
+78 finished taking service from serviceman 5
+90 finished taking service from serviceman 1
+78 starte paying the service bill
+88 finished taking service from serviceman 3
+89 finished taking service from serviceman 2
+87 finished taking service from serviceman 4
+87 started taking service from serviceman 5
+78 finished paying the service bill
+88 started taking service from serviceman 4
+89 started taking service from serviceman 3
+90 started taking service from serviceman 2
+87 finished taking service from serviceman 5
+90 finished taking service from serviceman 2
+87 starte paying the service bill
+89 finished taking service from serviceman 3
+87 finished paying the service bill
+88 finished taking service from serviceman 4
+88 started taking service from serviceman 5
+89 started taking service from serviceman 4
+90 started taking service from serviceman 3
+89 finished taking service from serviceman 4
+88 finished taking service from serviceman 5
+88 starte paying the service bill
+89 started taking service from serviceman 5
+90 finished taking service from serviceman 3
+90 started taking service from serviceman 4
+88 finished paying the service bill
+89 finished taking service from serviceman 5
+89 starte paying the service bill
+90 finished taking service from serviceman 4
+90 started taking service from serviceman 5
+90 finished taking service from serviceman 5
+90 starte paying the service bill
+90 finished paying the service bill
+89 finished paying the service bill
+76 has departed
+88 has departed
+89 has departed
+77 has departed
+78 has departed
+87 has departed
+90 has departed
+75 has departed
+91 started taking service from serviceman 1
+91 finished taking service from serviceman 1
+91 started taking service from serviceman 2
+91 finished taking service from serviceman 2
+91 started taking service from serviceman 3
+92 started taking service from serviceman 1
+91 finished taking service from serviceman 3
+91 started taking service from serviceman 4
+92 finished taking service from serviceman 1
+92 started taking service from serviceman 2
+93 started taking service from serviceman 1
+91 finished taking service from serviceman 4
+91 started taking service from serviceman 5
+92 finished taking service from serviceman 2
+92 started taking service from serviceman 3
+93 finished taking service from serviceman 1
+93 started taking service from serviceman 2
+94 started taking service from serviceman 1
+93 finished taking service from serviceman 2
+92 finished taking service from serviceman 3
+91 finished taking service from serviceman 5
+94 finished taking service from serviceman 1
+92 started taking service from serviceman 4
+91 starte paying the service bill
+93 started taking service from serviceman 3
+94 started taking service from serviceman 2
+95 started taking service from serviceman 1
+91 finished paying the service bill
+95 finished taking service from serviceman 1
+94 finished taking service from serviceman 2
+93 finished taking service from serviceman 3
+92 finished taking service from serviceman 4
+92 started taking service from serviceman 5
+93 started taking service from serviceman 4
+92 finished taking service from serviceman 5
+92 starte paying the service bill
+94 started taking service from serviceman 3
+95 started taking service from serviceman 2
+96 started taking service from serviceman 1
+92 finished paying the service bill
+94 finished taking service from serviceman 3
+96 finished taking service from serviceman 1
+93 finished taking service from serviceman 4
+95 finished taking service from serviceman 2
+93 started taking service from serviceman 5
+94 started taking service from serviceman 4
+95 started taking service from serviceman 3
+96 started taking service from serviceman 2
+93 finished taking service from serviceman 5
+93 starte paying the service bill
+94 finished taking service from serviceman 4
+94 started taking service from serviceman 5
+95 finished taking service from serviceman 3
+95 started taking service from serviceman 4
+96 finished taking service from serviceman 2
+96 started taking service from serviceman 3
+93 finished paying the service bill
+94 finished taking service from serviceman 5
+95 finished taking service from serviceman 4
+96 finished taking service from serviceman 3
+94 starte paying the service bill
+95 started taking service from serviceman 5
+96 started taking service from serviceman 4
+94 finished paying the service bill
+96 finished taking service from serviceman 4
+95 finished taking service from serviceman 5
+95 starte paying the service bill
+96 started taking service from serviceman 5
+96 finished taking service from serviceman 5
+96 starte paying the service bill
+96 finished paying the service bill
+95 finished paying the service bill
+91 has departed
+92 has departed
+93 has departed
+94 has departed
+96 has departed
+95 has departed
+97 started taking service from serviceman 1
+97 finished taking service from serviceman 1
+97 started taking service from serviceman 2
+98 started taking service from serviceman 1
+97 finished taking service from serviceman 2
+97 started taking service from serviceman 3
+97 finished taking service from serviceman 3
+97 started taking service from serviceman 4
+98 finished taking service from serviceman 1
+97 finished taking service from serviceman 4
+97 started taking service from serviceman 5
+98 started taking service from serviceman 2
+99 started taking service from serviceman 1
+98 finished taking service from serviceman 2
+98 started taking service from serviceman 3
+99 finished taking service from serviceman 1
+99 started taking service from serviceman 2
+100 started taking service from serviceman 1
+100 finished taking service from serviceman 1
+99 finished taking service from serviceman 2
+98 finished taking service from serviceman 3
+97 finished taking service from serviceman 5
+97 starte paying the service bill
+98 started taking service from serviceman 4
+99 started taking service from serviceman 3
+100 started taking service from serviceman 2
+85 started taking service from serviceman 1
+99 finished taking service from serviceman 3
+100 finished taking service from serviceman 2
+98 finished taking service from serviceman 4
+97 finished paying the service bill
+85 finished taking service from serviceman 1
+98 started taking service from serviceman 5
+99 started taking service from serviceman 4
+100 started taking service from serviceman 3
+85 started taking service from serviceman 2
+86 started taking service from serviceman 1
+99 finished taking service from serviceman 4
+100 finished taking service from serviceman 3
+85 finished taking service from serviceman 2
+86 finished taking service from serviceman 1
+98 finished taking service from serviceman 5
+98 starte paying the service bill
+99 started taking service from serviceman 5
+100 started taking service from serviceman 4
+85 started taking service from serviceman 3
+86 started taking service from serviceman 2
+85 finished taking service from serviceman 3
+98 finished paying the service bill
+99 finished taking service from serviceman 5
+86 finished taking service from serviceman 2
+100 finished taking service from serviceman 4
+99 starte paying the service bill
+100 started taking service from serviceman 5
+85 started taking service from serviceman 4
+86 started taking service from serviceman 3
+85 finished taking service from serviceman 4
+100 finished taking service from serviceman 5
+99 finished paying the service bill
+86 finished taking service from serviceman 3
+85 started taking service from serviceman 5
+100 starte paying the service bill
+86 started taking service from serviceman 4
+85 finished taking service from serviceman 5
+86 finished taking service from serviceman 4
+100 finished paying the service bill
+86 started taking service from serviceman 5
+85 starte paying the service bill
+86 finished taking service from serviceman 5
+85 finished paying the service bill
+86 starte paying the service bill
+86 finished paying the service bill
+97 has departed
+86 has departed
+99 has departed
+100 has departed
+85 has departed
+98 has departed
+84 started taking service from serviceman 1
+84 finished taking service from serviceman 1
+84 started taking service from serviceman 2
+83 started taking service from serviceman 1
+83 finished taking service from serviceman 1
+84 finished taking service from serviceman 2
+84 started taking service from serviceman 3
+83 started taking service from serviceman 2
+82 started taking service from serviceman 1
+84 finished taking service from serviceman 3
+84 started taking service from serviceman 4
+84 finished taking service from serviceman 4
+84 started taking service from serviceman 5
+83 finished taking service from serviceman 2
+83 started taking service from serviceman 3
+82 finished taking service from serviceman 1
+82 started taking service from serviceman 2
+81 started taking service from serviceman 1
+81 finished taking service from serviceman 1
+82 finished taking service from serviceman 2
+84 finished taking service from serviceman 5
+84 starte paying the service bill
+83 finished taking service from serviceman 3
+83 started taking service from serviceman 4
+82 started taking service from serviceman 3
+81 started taking service from serviceman 2
+80 started taking service from serviceman 1
+84 finished paying the service bill
+83 finished taking service from serviceman 4
+83 started taking service from serviceman 5
+82 finished taking service from serviceman 3
+82 started taking service from serviceman 4
+81 finished taking service from serviceman 2
+81 started taking service from serviceman 3
+81 finished taking service from serviceman 3
+80 finished taking service from serviceman 1
+80 started taking service from serviceman 2
+79 started taking service from serviceman 1
+83 finished taking service from serviceman 5
+83 starte paying the service bill
+82 finished taking service from serviceman 4
+82 started taking service from serviceman 5
+81 started taking service from serviceman 4
+79 finished taking service from serviceman 1
+82 finished taking service from serviceman 5
+82 starte paying the service bill
+80 finished taking service from serviceman 2
+80 started taking service from serviceman 3
+79 started taking service from serviceman 2
+79 finished taking service from serviceman 2
+81 finished taking service from serviceman 4
+81 started taking service from serviceman 5
+83 finished paying the service bill
+80 finished taking service from serviceman 3
+82 finished paying the service bill
+81 finished taking service from serviceman 5
+81 starte paying the service bill
+80 started taking service from serviceman 4
+79 started taking service from serviceman 3
+80 finished taking service from serviceman 4
+80 started taking service from serviceman 5
+79 finished taking service from serviceman 3
+79 started taking service from serviceman 4
+80 finished taking service from serviceman 5
+80 starte paying the service bill
+79 finished taking service from serviceman 4
+79 started taking service from serviceman 5
+80 finished paying the service bill
+81 finished paying the service bill
+79 finished taking service from serviceman 5
+79 starte paying the service bill
+79 finished paying the service bill
+84 has departed
+83 has departed
+82 has departed
+80 has departed
+81 has departed
+79 has departed

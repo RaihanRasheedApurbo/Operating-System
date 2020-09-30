@@ -8,7 +8,7 @@ using namespace std;
 
 unsigned int numberOfBiker = 10;
 unsigned int numberOfServiceMen = 5;
-unsigned int numberOfCashier = 2;
+unsigned int numberOfCashier = 3;
 int wpn = 0; // wpn -> waiting people number
 pthread_mutex_t *wpnMutex= new pthread_mutex_t;
 pthread_mutex_t *enter = new pthread_mutex_t;
@@ -80,7 +80,9 @@ void *bikerFunction(void *arg)
     //     pthread_mutex_lock(serviceMen+0);
     // }
     sem_wait(pipeline);
+    pthread_mutex_lock(enter);
     pthread_mutex_lock(serviceMen+0);
+    pthread_mutex_unlock(enter);
 
     
     
@@ -117,21 +119,24 @@ void *bikerFunction(void *arg)
     sem_post(cashier);
     //printf("payment completed of bikar %d\n",currentBikerNumber);
     
+    
     pthread_mutex_lock(wpnMutex);
     wpn++;
     //printf("%d\n",wpn);
     if(wpn==1)
     {
+        pthread_mutex_lock(enter);
         //pthread_mutex_lock(enter);
         //printf("hi\n");
         for(int i=0;i<numberOfServiceMen;i++)
         {
-            printf("going for lock %d\n",i);
+            //printf("going for lock %d\n",i);
             pthread_mutex_lock(serviceMen+i);
-            printf("aquired lock for %d\n",i);
+            //printf("aquired lock for %d\n",i);
         }
         //printf("got all the locks\n");
         pthread_mutex_unlock(wpnMutex);
+        
         for(int i=numberOfServiceMen-1;i>=0;i--)
         {
             float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX); // generates 0.0 to 1.0 inclusive
@@ -160,10 +165,11 @@ void *bikerFunction(void *arg)
     }
     pthread_mutex_lock(wpnMutex);
     wpn--;
-    // if(wpn==0)
-    // {
-    //     //pthread_mutex_unlock(enter);
-    // }
+    if(wpn==0)
+    {
+        pthread_mutex_unlock(enter);
+        //pthread_mutex_unlock(enter);
+    }
     printf("%d has departed\n",currentBikerNumber+1);
     pthread_mutex_unlock(wpnMutex);
     
