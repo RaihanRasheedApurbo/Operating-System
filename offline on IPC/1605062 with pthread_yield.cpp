@@ -14,7 +14,6 @@ pthread_mutex_t *wpnMutex= new pthread_mutex_t;
 pthread_mutex_t *enter = new pthread_mutex_t;
 pthread_mutex_t *serviceMen = new pthread_mutex_t[numberOfServiceMen];
 sem_t *cashier = new sem_t;
-sem_t *pipeline = new sem_t;
 void *bikerFunction(void *arg);
 
 
@@ -24,7 +23,7 @@ int main()
     srand (static_cast <unsigned> (time(0)));
     int res;
     res = sem_init(cashier,0,numberOfCashier);
-    res = sem_init(pipeline,0,numberOfServiceMen);
+    
     
     pthread_t *bikers = new pthread_t[numberOfBiker];
     for(int i=0;i<numberOfServiceMen;i++)
@@ -69,18 +68,16 @@ void *bikerFunction(void *arg)
     delete (int *)arg;
     //pthread_mutex_lock(enter);
     
-    // pthread_mutex_lock(serviceMen+0);
-    
-    // while(wpn>0)
-    // {
-        
-    //     pthread_mutex_unlock(serviceMen+0);
-    //     //printf("yeilding %d\n",currentBikerNumber);
-    //     pthread_yield();
-    //     pthread_mutex_lock(serviceMen+0);
-    // }
-    sem_wait(pipeline);
     pthread_mutex_lock(serviceMen+0);
+    
+    while(wpn>0)
+    {
+        
+        pthread_mutex_unlock(serviceMen+0);
+        //printf("yeilding %d\n",currentBikerNumber);
+        pthread_yield();
+        pthread_mutex_lock(serviceMen+0);
+    }
 
     
     
@@ -105,7 +102,6 @@ void *bikerFunction(void *arg)
         // }
         pthread_mutex_unlock(serviceMen+i);
     }
-    sem_post(pipeline);
     //printf("%dth biker's servicing is complted waiting for payment\n",currentBikerNumber);
     sem_wait(cashier);
     
@@ -126,9 +122,9 @@ void *bikerFunction(void *arg)
         //printf("hi\n");
         for(int i=0;i<numberOfServiceMen;i++)
         {
-            printf("going for lock %d\n",i);
+            //printf("going for lock %d\n",i);
             pthread_mutex_lock(serviceMen+i);
-            printf("aquired lock for %d\n",i);
+            //printf("aquired lock for %d\n",i);
         }
         //printf("got all the locks\n");
         pthread_mutex_unlock(wpnMutex);
