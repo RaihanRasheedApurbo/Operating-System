@@ -8,7 +8,7 @@ using namespace std;
 
 unsigned int numberOfBiker = 10;
 unsigned int numberOfServiceMen = 5;
-unsigned int numberOfCashier = 1;
+unsigned int numberOfCashier = 2;
 int wpn = 0; // wpn -> waiting people number
 pthread_mutex_t *wpnMutex= new pthread_mutex_t;
 pthread_mutex_t *enter = new pthread_mutex_t;
@@ -36,7 +36,7 @@ int main()
     }
     for(int i=0;i<numberOfBiker;i++)
     {
-        printf("sending %d\n",i);
+        //printf("sending %d\n",i);
         int *t = new int;
         *t = i;
         res=pthread_create(bikers+i,NULL,bikerFunction,t);
@@ -46,7 +46,7 @@ int main()
             return -1;
         }
     }
-    printf("waiting for the end to come\n");
+    //printf("waiting for the end to come\n");
     for(int i=0;i<numberOfBiker;i++)
     {   
         void **t;
@@ -57,7 +57,7 @@ int main()
             return -1;
         }
     }
-    cout<<"exiting from main"<<endl;
+    //cout<<"exiting from main"<<endl;
 
     return 0;
 }
@@ -85,10 +85,11 @@ void *bikerFunction(void *arg)
     for(int i=0;i<numberOfServiceMen;i++)
     {
         
-        printf("%dth biker is working with %dth service man\n",currentBikerNumber,i);
+        printf("%d started taking service from serviceman %d\n",currentBikerNumber+1,i+1);
         float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX); // generates 0.0 to 1.0 inclusive
         r = r*2; // generate 0.0 to 2.0 inclusive
         sleep(r);
+        printf("%d finished taking service from serviceman %d\n",currentBikerNumber+1,i+1);
         //printf("%dth biker has completed working with %dth service man. it took %f mili seconds\n",
         //currentBikerNumber,i,r);
         if(i+1<numberOfServiceMen)
@@ -101,29 +102,31 @@ void *bikerFunction(void *arg)
         // }
         pthread_mutex_unlock(serviceMen+i);
     }
-    printf("%dth biker's servicing is complted waiting for payment\n",currentBikerNumber);
+    //printf("%dth biker's servicing is complted waiting for payment\n",currentBikerNumber);
     sem_wait(cashier);
-    printf("%dth biker's is doing payment\n",currentBikerNumber);
+    
+    printf("%d starte paying the service bill\n",currentBikerNumber+1);
     float r = static_cast <float> (rand()) / static_cast <float> (RAND_MAX); // generates 0.0 to 1.0 inclusive
-    r = r*1; // generate 0.0 to 1.0 inclusive
-    //sleep(r);
+    r = r*2; // generate 0.0 to 2.0 inclusive
+    sleep(r);
+    printf("%d finished paying the service bill\n",currentBikerNumber+1);
     sem_post(cashier);
-    printf("payment completed of bikar %d\n",currentBikerNumber);
+    //printf("payment completed of bikar %d\n",currentBikerNumber);
     
     pthread_mutex_lock(wpnMutex);
     wpn++;
-    printf("%d\n",wpn);
+    //printf("%d\n",wpn);
     if(wpn==1)
     {
         //pthread_mutex_lock(enter);
-        printf("hi\n");
+        //printf("hi\n");
         for(int i=0;i<numberOfServiceMen;i++)
         {
-            printf("going for lock %d\n",i);
+            //printf("going for lock %d\n",i);
             pthread_mutex_lock(serviceMen+i);
-            printf("aquired lock for %d\n",i);
+            //printf("aquired lock for %d\n",i);
         }
-        printf("got all the locks\n");
+        //printf("got all the locks\n");
         pthread_mutex_unlock(wpnMutex);
         for(int i=numberOfServiceMen-1;i>=0;i--)
         {
@@ -135,7 +138,7 @@ void *bikerFunction(void *arg)
     }
     else
     {
-        printf("hi1\n");
+        //printf("hi1\n");
         pthread_mutex_unlock(wpnMutex);
         pthread_mutex_lock(serviceMen+numberOfServiceMen-1);
         for(int i=numberOfServiceMen-1;i>=0;i--)
@@ -153,11 +156,11 @@ void *bikerFunction(void *arg)
     }
     pthread_mutex_lock(wpnMutex);
     wpn--;
-    if(wpn==0)
-    {
-        //pthread_mutex_unlock(enter);
-    }
-    printf("biker number %d departed\n",currentBikerNumber);
+    // if(wpn==0)
+    // {
+    //     //pthread_mutex_unlock(enter);
+    // }
+    printf("%d has departed\n",currentBikerNumber+1);
     pthread_mutex_unlock(wpnMutex);
     
     
