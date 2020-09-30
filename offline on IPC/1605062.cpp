@@ -7,8 +7,8 @@
 using namespace std;
 
 unsigned int numberOfBiker = 10;
-unsigned int numberOfServiceMen = 5;
-unsigned int numberOfCashier = 3;
+unsigned int numberOfServiceMen = 3;
+unsigned int numberOfCashier = 1;
 int wpn = 0; // wpn -> waiting people number
 pthread_mutex_t *wpnMutex= new pthread_mutex_t;
 pthread_mutex_t *enter = new pthread_mutex_t;
