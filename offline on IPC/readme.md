@@ -1,10 +1,14 @@
 **Inter Process Communciation(IPC):**
-You can see specification of this assignment on IPC Assignment.pdf demo output is on output.txt
-Solution is on ipc_using_triple_mutex.cpp and ipc_using_busywaiting_and_yield.cpp (2 different solution)
-you can run code using script.sh and test.sh 
-script.sh create txt file to show output on the other hand test.sh shows it on console
+
+-You can see specification of this assignment on IPC Assignment.pdf demo output is on output.txt.
+-Solution is on ipc_using_triple_mutex.cpp and ipc_using_busywaiting_and_yield.cpp (2 different solution).
+-you can run code using script.sh and test.sh 
+-script.sh create txt file to show output on the other hand test.sh shows it on console
+
+
 
 If you want to solve this problem or understand what's the code doing you need some context. Those contexts can be gained from below materials- 
+
 1. Read producer consumer and reader-writer problem (I read from OS book of Andrew Tanenbaum)
 2. Try to understand practice.cpp that solves producer consumer problem so that you get familar with 
    CPP thread syntax and library functions. 
