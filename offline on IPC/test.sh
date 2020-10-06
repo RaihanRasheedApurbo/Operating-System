@@ -1,4 +1,4 @@
-your_roll=1605062
-g++ -D _REENTRANT $your_roll.cpp -o $your_roll -lpthread
-./$your_roll
-rm $your_roll
+file_name=1605062
+g++ -D _REENTRANT $file_name.cpp -o $file_name -lpthread
+./$file_name
+rm $file_name
