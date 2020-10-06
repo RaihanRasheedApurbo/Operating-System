@@ -1,9 +1,12 @@
 **Inter Process Communciation(IPC):**
 
--You can see specification of this assignment on IPC Assignment.pdf demo output is on output.txt.
--Solution is on ipc_using_triple_mutex.cpp and ipc_using_busywaiting_and_yield.cpp (2 different solution).
--you can run code using script.sh and test.sh 
--script.sh create txt file to show output on the other hand test.sh shows it on console
+You can see specification of this assignment on IPC Assignment.pdf demo output is on output.txt.
+
+Solution is on ipc_using_triple_mutex.cpp and ipc_using_busywaiting_and_yield.cpp (2 different solution).
+
+you can run code using script.sh and test.sh 
+
+script.sh creates txt file to show output on the other hand test.sh shows it on console
 
 
 
@@ -18,4 +21,5 @@ If you want to solve this problem or understand what's the code doing you need s
 6. if you find the solution in ipc_using_triple_mutex.cpp unintuitive then read triple mutex strategy.txt 
 
 **Unressolved Issue:**
+
 ipc_using_triple_mutex.cpp has one issue. It can't give complete priority to the thread that has completed payment and ready to exit. In order to solve this problem All you need to do is remove the semphore named pipline and use another mutex in that same place... new mutex should lock like the pipeline semaphore did but unlock when first servicemen mutex is received unlike pipeline semaphore which increased value after the loop. Sorry I am now feeling to lazy to solve this and test.
